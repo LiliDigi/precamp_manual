@@ -1,0 +1,10 @@
+# -*- coding: utf-8; mode: python -*-
+
+## Input generators.
+
+cxx_generator(src='generator.cpp')
+
+## Input validators.
+
+cxx_validator(src='validator.cpp')
+cxx_validator(src='validator_tubuann.cpp')

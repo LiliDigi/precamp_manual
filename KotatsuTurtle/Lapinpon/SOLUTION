@@ -1,0 +1,7 @@
+# -*- coding: utf-8; mode: python -*-
+
+## Solution definition.
+## Choose and modify one of definitions below.
+## Adding a parameter challenge_cases marks this solution as a wrong solution.
+
+cxx_solution(src='main.cpp')

@@ -8,4 +8,5 @@ That's it for the license, but if you have any questions about the license, plea
 
 ## testlib.h
 
+- Not included in the above license.
 - Check [testlib.h](KotatsuTurtle/tests/testlib.h)
